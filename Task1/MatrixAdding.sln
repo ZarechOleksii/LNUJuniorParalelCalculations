@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixAdding", "MatrixAdding.csproj", "{A2D3B91C-72A0-4A95-A7F7-9CEBC72959FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D3B91C-72A0-4A95-A7F7-9CEBC72959FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D3B91C-72A0-4A95-A7F7-9CEBC72959FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2D3B91C-72A0-4A95-A7F7-9CEBC72959FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2D3B91C-72A0-4A95-A7F7-9CEBC72959FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B4D732E-FB46-42C3-9B74-255955895AA3}
+	EndGlobalSection
+EndGlobal
